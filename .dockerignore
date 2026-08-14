@@ -1,0 +1,6 @@
+nome_modules/
+dist
+Dockerfile
+.git
+.dockerignore
+.gitignore
