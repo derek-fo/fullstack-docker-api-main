@@ -10,4 +10,4 @@ RUN npm build
 
 EXPOSE 3333
 
-CMD["npm", "start"]
+CMD ["npm", "start"]
